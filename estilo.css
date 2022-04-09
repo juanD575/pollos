@@ -1,0 +1,14 @@
+*{
+margin:2;
+pading: 2;
+}
+body{
+background: violet;
+color: greenyellow;
+}
+p,h1{
+color:white;
+}
+#marca{
+color:green;
+}
